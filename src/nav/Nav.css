@@ -1,0 +1,12 @@
+.nav {
+  background-color: aqua;
+  padding: 1rem;
+  border-radius: 15px;
+  border: 1px solid black;
+}
+.nav-li {
+  margin-left: 18px;
+  text-decoration: none;
+  text-shadow: 50% white;
+  font-weight: bold;
+}
